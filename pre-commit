@@ -1,4 +1,4 @@
-#!./ve python
+#!/usr/bin/env ve python
 """
 Forked from https://gist.github.com/810399
 """
